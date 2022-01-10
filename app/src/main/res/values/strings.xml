@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AllegroCodingTaskMM</string>
+    <string name="language">Language: %s</string>
+    <string name="no_description_info">Well... unfortunately the owner was in a hurry and didn\'t manage to share any insight on this project. But hey try another repo!</string>
+    <string name="language_null_info">Not specified</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+</resources>
